@@ -1,0 +1,22 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "reading_qrcode_and_barcode",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "reading_qrcode_and_barcode (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "Flutter",
+            "program": "lib/main.dart",
+            "request": "launch",
+            "type": "dart"
+        },
+    ]
+}
