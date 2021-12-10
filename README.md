@@ -1,0 +1,1 @@
+# Reading_QRCODE_and_barcodes_in-_Flutter
