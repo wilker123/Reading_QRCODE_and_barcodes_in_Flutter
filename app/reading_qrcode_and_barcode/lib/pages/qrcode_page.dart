@@ -11,10 +11,6 @@ class _QRCodePageState extends State<QRCodePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        title: const Text("QRCodePage"),
-        centerTitle: true,
-      ),
       body: Container(),
     );
   }
